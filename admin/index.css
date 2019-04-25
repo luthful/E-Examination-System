@@ -1,0 +1,29 @@
+body{
+	background:url(images/Exam.jpg)no-repeat center fixed ;
+        background-size: 1366px 768px;
+}
+.header {
+    background:black;   
+    border-bottom: solid blue;
+    padding:0;
+}
+.next{
+	}
+#headerimage{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 45%;
+}
+.content_class
+{
+	position: relative;
+	top:150px;
+	margin:auto; 
+}
+.footer_class
+{
+	position: relative;
+	top:290px;
+	color: black;
+}
